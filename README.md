@@ -1,0 +1,3 @@
+# ProviderTest
+测试单词本的ContentProvider
+该仓库是AndroidSimpleWordBook的测试项目，用来测试ContentProvider的增删改查操作
